@@ -22,7 +22,7 @@ a {
 body {
     font-family: cairo;
     direction: rtl;
-    height: 4500px;
+  
 }
 
 html {
@@ -75,7 +75,7 @@ header {
 
     border: 1px solid rgb(201, 197, 197);
     position: sticky;
-    top:10px;
+    top:0px;
     z-index: 1000;
 }
 
